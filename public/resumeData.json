@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Achraf REHIOUI",
+    "occupation": "",
+    "description": "Full Stack Developer",
+    "image": "",
+    "bio": "My name is Achraf, I'am Full Stack ReactJS Developer, I have dual functional and technical skills. My go-to technologies are React and Node.js, and I have completed a range of projects using them.  ",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Paris",
+      "state": "",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/arehioui",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AchrafRehioui",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "",
+        "degree": "",
+        "graduated": "",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone ",
+        "category": "Amazon Clone built with ReactJs",
+        "image": "Amazon.png",
+        "url": "https://clone-adea6.web.app"
+      },
+      {
+        "title": "AIRBNB Clone",
+        "category": "AIRBNB Clone built with ReactJS",
+        "image": "Airbnb.png",
+        "url": "https://airbnb-clone-5f238.web.app/"
+      },
+      {
+        "title": "NETFLIX Clone",
+        "category": "NETFLIX Clone built with ReactJS",
+        "image": "Netflix.png",
+        "url": "https://netflix-clone-df33b.web.app/"
+      },
+      {
+        "title": "Newsreader App",
+        "category": "Newsreader App built with ReactJS",
+        "image": "Newsreader.png",
+        "url": "https://news-reader-739fe.web.app/"
+      },
+      {
+        "title": "Expense Tracker App",
+        "category": "Expense-Tracker App built with ReactJS",
+        "image": "Expense.png",
+        "url": "https://expense-tracker-f551e.web.app/"
+      },
+      {
+        "title": "COVID19 APP",
+        "category": "COVID19 APP built with ReactJS",
+        "image": "COVID.png",
+        "url": "https://covid19-tracker-c121c.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
