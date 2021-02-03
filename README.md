@@ -5,7 +5,7 @@
 ## Introduction
 This is a code repository for the corresponding project Portfolio. 
 
-This project contains description of my projects done within React and personal resume. For Implementing, I used ReactJS,CSS, HTML.
+This project contains description of my projects done within React and personal resume. For Implementing Portfolio, I used ReactJS,CSS, HTML.
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
